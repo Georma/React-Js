@@ -7,16 +7,15 @@ import 'bootstrap/dist/js/bootstrap.js';
  import 'bootstrap/js/dist/dropdown'
 import $ from 'jquery';
 import Popper from 'popper.js';
-import {Nav} from './components/Nav/NavBar'
+import { NavBar , ItemListContainer , CartWidget} from './components' 
+
 
 function App() {
   return (
     <>
-    
-
-    <h1>Entrega del Desafio: Crear una NavBar</h1>
-    
-        <Nav/>
+    <h1>Entrega del Desafio: Crear una CartWidget</h1>
+            <NavBar/>
+            <ItemListContainer/>
         </>
   );
 }

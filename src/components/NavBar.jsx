@@ -1,4 +1,7 @@
-export function Nav() {
+import { CartWidget } from './CartWidget' 
+
+
+export function NavBar() {
   return  (
   <>
     <nav className="navbar navbar-expand-lg navbar navbar-dark bg-dark">
@@ -30,8 +33,6 @@ export function Nav() {
              <li><a className="dropdown-item " href="">Espumante</a></li>
            </ul>
          </li>
-
-       
          <li className="nav-item">
            <a className="nav-link "  href="">Promociones</a>
          </li>
@@ -39,21 +40,12 @@ export function Nav() {
           <a className="nav-link" href="">Curiosidades</a>
         </li>
       </ul>
-
         <form className="d-flex ">
 
-        <button className="btn btn-outline-success colorPersonalizado" type="submit">Buscar</button>
-      </form>
-
-      <a href="">
-        <button type="button" className="btn  position-relative margeLeft">
+        <CartWidget numOfItems={4} />
+  
       
-          <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-            3+
-            <span className="visually-hidden">unread messages</span>
-          </span>
-        </button>
-      </a>
+      </form>
     </div>
   </div>
 </nav>
