@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Cerveza Heineken",
+    "description": "Características principales:\n<p>&bull; Contenido: 350 ml<br />&bull; Categoría: Cervezas<br />&bull;Marca: Heineken<br />&bull;Envase: Botella vidrio</p><br />",
+    "price": {
+      "value": 1000,
+      "currencyCode": "$"
+    },
+    "stock": 520,
+    "categoryId": "cerveza",
+    "pictureUrl": "https://jumbo.vtexassets.com/arquivos/ids/336780-360-360?width=360&height=360&aspect=true"
+      },
+      {
+        "id": "2",
+        "title": "Carmen Gran Reserva",
+        "description": "Características principales:\n<p>&bull; Contenido: 750 cc<br />&bull; Categoría: Vino Gran Reserva<br />&bull;Marca: Heineken<br />&bull;Cepa: Cabernet Sauvignon<br/>&bull;Envase: Botella vidrio</p><br />",
+        "price": {
+          "value": 7500,
+          "currencyCode": "$"
+        },
+        "stock": 475,
+        "categoryId": "vino",
+        "pictureUrl": "data:image/jpeg;base64,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"
+          },
+          {
+            "id": "3",
+            "title": "Cerveza Imperial",
+            "description": "Características principales:\n<p>&bull; Contenido: 350 ml<br />&bull; Categoría: Cervezas<br />&bull;Marca: Imperial<br />&bull;Envase: Lata </p><br />",
+            "price": {
+              "value": 3000,
+              "currencyCode": "$"
+            },
+            "stock": 120,
+            "categoryId": "cerveza",
+            "pictureUrl": "https://s3-sa-east-1.amazonaws.com/buze-backoffice-product-images/53df811e-5a25-477c-8774-65d13c0e2f42-lg.jpg"
+              },
+              {
+                "id": "4",
+                "title": "Caliterra Tributo",
+                "description": "Características principales:\n<p>&bull; Contenido: 750 cc<br />&bull; Categoría: tinto<br />&bull;Marca: Heineken<br />&bull;Cepa: Cabernet Sauvignon<br/>&bull;Envase: Botella vidrio</p><br />",
+                "price": {
+                  "value": 7800,
+                  "currencyCode": "$"
+                },
+                "stock": 300,
+                "categoryId": "vino",
+                "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_947580-MLC48996711744_022022-V.jpg"
+                  }, 
+                  {
+                    "id": "5",
+                    "title": "Cerveza Beker",
+                    "description": "Características principales:\n<p>&bull; Contenido: 330 cc<br />&bull; Categoría: Cervezas<br />&bull;Marca: Becker<br />&bull;Envase: Lata </p><br />",
+                    "price": {
+                      "value": 3500,
+                      "currencyCode": "$"
+                    },
+                    "stock": 250,
+                    "categoryId": "cerveza",
+                    "pictureUrl": "https://jumbo.vtexassets.com/arquivos/ids/434056-360-360?width=360&height=360&aspect=true"
+                      },
+                      {
+                        "id": "6",
+                        "title": "Casillero del Diablo",
+                        "description": "Características principales:\n<p>&bull; Contenido: 750 cc<br />&bull; Categoría: Vino<br />&bull;Marca: Concha y Toro<br />&bull;Envase: Botella vidrio</p><br />",
+                        "price": {
+                          "value": 5000,
+                          "currencyCode": "$"
+                        },
+                        "stock": 100,
+                        "categoryId": "vino",
+                        "pictureUrl": "https://s3-sa-east-1.amazonaws.com/buze-backoffice-product-images/5f2ccc37-58d1-400b-bb28-a231be8f9431-lg.jpg"
+                          },
+                          {
+                            "id": "7",
+                            "title": "Cerveza Escudo Silver",
+                            "description": "Características principales:\n<p>&bull; Contenido: 330 cc<br />&bull; Categoría: Cervezas<br />&bull;Marca: Escudo<br />&bull;Envase: Lata </p><br />",
+                            "price": {
+                              "value": 800,
+                              "currencyCode": "$"
+                            },
+                            "stock": 233,
+                            "categoryId": "cerveza",
+                            "pictureUrl": "https://www.vinogourmet.cl/wp-content/uploads/2021/05/1956-CERVEZA-470CCX24-LATA-ESCUDO-SILVER-5.0%C2%B0.jpg"
+                              },
+                              {
+                                "id": "8",
+                                "title": "Casas del Bosque Reserva Carmenere",
+                                "description": "Características principales:\n<p>&bull; Contenido: 750 cc<br />&bull; Categoría: vino<br />&bull;Marca: Casas del Bosque<br />&bull;Envase: Botella vidrio</p><br />",
+                                "price": {
+                                  "value": 1250,
+                                  "currencyCode": "$"
+                                },
+                                "stock": 120,
+                                "categoryId": "vino",
+                                "pictureUrl": "https://s3-sa-east-1.amazonaws.com/buze-backoffice-product-images/fcafe24a-ba47-46c1-9e6b-85f0eb1075dd-lg.jpg"
+                                  }  
+
+
+
+
+]

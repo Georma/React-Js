@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;700&family=Indie+Flower&family=Lobster&family=Pacifico&family=Satisfy&display=swap=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script&display=swap');
+
+
+.fuenteTitulo {
+    font-family: "Dancing Script", cursive;
+    font-size: 250%;
+    margin: -4px; 
+}
+  
+$fontMain:'Frank Ruhl Libre', serif;
+$fontMain2: 'Dancing Script', cursive;
+$fontLight:300;
+$fontBold:700;
+$textSmall:1em;
+$textBig:2em;
+
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: white;
+  text-decoration: none;
+
+ 
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out; }
+  @media (prefers-reduced-motion: reduce) {
+    .nav-link {
+      transition: none; } }
+
+ 
+
